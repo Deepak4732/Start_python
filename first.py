@@ -1,4 +1,4 @@
-'''age = 990;
+age = 990;
 # age = "23";
 print(int(age));
 print(type(age));
@@ -15,7 +15,7 @@ print(z)
 def deepak():               # def functionname def is used for creating its own function.
     print("hello my age is " + str(age));
 deepak()
-'''
+
 sunn_madherjat = 25;
 
 def mia_khalifa():
